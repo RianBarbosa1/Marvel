@@ -1,4 +1,4 @@
-## **##  Heróis da Marvel: Seu Guia Semi-Completo para o Universo Cinematográfico! **
+## **##  Heróis da Marvel: Seu Guia Semi-Completo para o Universo Cinematográfico! ** - imersão dev com Google Gemini
 
 ### **O que é essa aplicação?**
 
